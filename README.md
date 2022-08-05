@@ -13,3 +13,4 @@ These revision guides are NOT official and they may not cover the entire syllabi
 
 klejdi.sevdari@studbocconi.it
 
+Please consider giving this repo a star if you find it useful.
